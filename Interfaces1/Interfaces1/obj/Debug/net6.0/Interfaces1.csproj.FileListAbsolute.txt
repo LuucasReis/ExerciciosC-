@@ -1,0 +1,15 @@
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\obj\Debug\net6.0\Interfaces1.csproj.AssemblyReference.cache
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\obj\Debug\net6.0\Interfaces1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\obj\Debug\net6.0\Interfaces1.AssemblyInfoInputs.cache
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\obj\Debug\net6.0\Interfaces1.AssemblyInfo.cs
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\obj\Debug\net6.0\Interfaces1.csproj.CoreCompileInputs.cache
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\bin\Debug\net6.0\Interfaces1.exe
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\bin\Debug\net6.0\Interfaces1.deps.json
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\bin\Debug\net6.0\Interfaces1.runtimeconfig.json
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\bin\Debug\net6.0\Interfaces1.dll
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\bin\Debug\net6.0\Interfaces1.pdb
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\obj\Debug\net6.0\Interfaces1.dll
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\obj\Debug\net6.0\refint\Interfaces1.dll
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\obj\Debug\net6.0\Interfaces1.pdb
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\obj\Debug\net6.0\Interfaces1.genruntimeconfig.cache
+C:\Users\lucasfernando_frwk\Documents\EstudoC#\Interfaces1\Interfaces1\obj\Debug\net6.0\ref\Interfaces1.dll
